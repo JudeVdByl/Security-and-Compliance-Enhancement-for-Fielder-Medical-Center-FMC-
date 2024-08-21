@@ -1,4 +1,4 @@
-# Project Title: Security and Compliance Enhancement for Fielder Medical Center (FMC)
+# Security and Compliance Enhancement for Fielder Medical Center (FMC)
 
 ## Objective
 This project focuses on addressing security gaps and improving compliance with industry standards at Fielder Medical Center (FMC). The aim is to develop a comprehensive strategy that ensures the protection of sensitive patient information, meets regulatory requirements, and mitigates identified risks.
